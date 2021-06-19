@@ -62,7 +62,7 @@ echo '{
  }' > ~/.config/rust-weather/config.json
 ```
 
-###Usage:
+### Usage:
 ```fish
  λ ~ ❯❯❯ weather
 Weather for Rzeszów, PL
